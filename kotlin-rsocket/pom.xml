@@ -50,7 +50,7 @@
 
     <properties>
         <ktor.version>2.3.7</ktor.version>
-        <rsocket.version>0.15.4</rsocket.version>
+        <rsocket.version>0.16.0</rsocket.version>
     </properties>
 
 </project>
