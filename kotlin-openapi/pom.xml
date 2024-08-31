@@ -156,7 +156,7 @@
         <spring-doc.version>1.8.0</spring-doc.version>
         <jackson-module-kotlin.version>2.17.1</jackson-module-kotlin.version>
         <okhttp.version>4.9.3</okhttp.version>
-        <moshi.version>1.13.0</moshi.version>
+        <moshi.version>1.15.1</moshi.version>
         <validation-api.version>2.0.1.Final</validation-api.version>
     </properties>
 
